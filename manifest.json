@@ -1,0 +1,10 @@
+{
+	"id": "canvas-performance-patch",
+	"name": "Canvas Performance Patch",
+	"version": "1.0.0",
+	"minAppVersion": "1.1.9",
+	"description": "Fix issues with canvas performance.",
+	"author": "khaelar",
+	"authorUrl": "https://github.com/khaelar",
+	"isDesktopOnly": true
+}
