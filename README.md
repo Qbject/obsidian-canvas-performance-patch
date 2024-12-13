@@ -1,5 +1,7 @@
 # Obsidian Canvas Performance Patch Plugin
 
+**> The improvements introduced here has already been added to the official Obsidian**
+
 This plugin was developed to address 2 issues I discovered that drastically reduce the performance of the canvases in Obsidian, especially those with a lot of media embeds.
 
 This plugin may be handy for anyone who would like to improve usability of Obsidian canvases before official patch release as well as for Obsidian developers to easily resolve the issues.
